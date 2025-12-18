@@ -1,4 +1,4 @@
-# Mayank Singh | Web Developer (MERN)
+it's# Mayank Singh | Web Developer (MERN)
 
 📍 India  
 🎓 Bachelor of Computer Applications (BCA)  
@@ -51,8 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36"/> Postman&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/> Figma&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="36"/> WordPress&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Agentic%20AI-purple?style=for-the-badge"/>
-</p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/> Bootstrap&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/> Tailwind CSS&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36"/> Azure&nbsp;&nbsp;
 
 ---
 
