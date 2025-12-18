@@ -62,8 +62,7 @@
   Node.js + Express routing, middleware, error handling, API testing with Postman
 
 - **Programming Practice**  
-  DSA, OOP concepts, and logic building using C, Java, and Python
-
+  DSA, OOP concepts, and logic building using Java
 ---
 
 ## 🎯 Currently Working On
