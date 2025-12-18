@@ -86,7 +86,7 @@
 ## 📬 Contact
 
 - Email: mayankbca96325@gmail.com 
-- Linkedin: linkedin.com/in/mayanksingh96 
+- Linkedin: www.linkedin.com/in/mayanksingh96 
 - GitHub: You’re already here — explore the repositories below
 
 ---
