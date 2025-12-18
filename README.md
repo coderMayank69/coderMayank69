@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36"/> Postman&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/> Figma&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="36"/> WordPress&nbsp;&nbsp;
-  Agentic AI 
+ <img src="https://img.shields.io/badge/Agentic%20AI-purple?style=for-the-badge"/>
 </p>
 
 ---
