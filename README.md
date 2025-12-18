@@ -1,17 +1,19 @@
-# Mayank | BCA Student | Web Developer (MERN)
+# Mayank Singh | Web Developer (MERN)
 
 📍 India  
 🎓 Bachelor of Computer Applications (BCA)  
 💼 Actively preparing for **Software Development Internships**
 
 ---
-
 ## 👋 About Me
 
-I am a **second-year BCA student** focused on building strong fundamentals in **web development, backend systems, and computer science concepts**.
-
-I work primarily with the **MERN stack**, practice **data structures and OOP**, and build projects that emphasize **clarity, correctness, and scalability**.  
-My goal is to become industry-ready through consistent learning and hands-on development.
+- Second-year **BCA student** who actually enjoys building things, not just collecting certificates  
+- Spend most of my time turning ideas into working apps with the **MERN stack**
+- Improving **problem-solving with Data Structures & Algorithms**, because clean thinking matters more than fancy syntax
+- Curious about **backend systems** and what really happens after you hit “submit”
+- Exploring **Agentic AI** and deeply interested in how **AI systems reason, act, and scale**
+- Learn best by breaking things, fixing them, and then fixing them properly
+- Looking for **software development internships** where I can contribute early and grow fast
 
 ---
 
@@ -28,11 +30,17 @@ My goal is to become industry-ready through consistent learning and hands-on dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/> MongoDB
 </p>
 
-### Programming, Tools & Platforms
+### Languages
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/> C&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> JavaScript&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/> Java&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/> Python&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/> C
+</p>
+
+### Programming, Tools & Platforms
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/> DBMS&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/> Git&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/> GitHub&nbsp;&nbsp;
@@ -77,8 +85,9 @@ My goal is to become industry-ready through consistent learning and hands-on dev
 
 ## 📬 Contact
 
-- 📧 Email: mayankbca96325@gmail.com  
-- 💻 GitHub: You’re already here — explore the repositories below
+- Email: mayankbca96325@gmail.com 
+- Linkedin: www.linkedin.com/in/mayanksingh96 
+- GitHub: You’re already here — explore the repositories below
 
 ---
 
