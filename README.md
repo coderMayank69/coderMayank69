@@ -1,4 +1,4 @@
-it's ## Mayank Singh | Web Developer (MERN)
+Mayank Singh | Web Developer (MERN)
 
 📍 India  
 🎓 Bachelor of Computer Applications (BCA)  
