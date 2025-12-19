@@ -1,4 +1,4 @@
-it's# Mayank Singh | Web Developer (MERN)
+it's ## Mayank Singh | Web Developer (MERN)
 
 📍 India  
 🎓 Bachelor of Computer Applications (BCA)  
@@ -52,6 +52,7 @@ it's# Mayank Singh | Web Developer (MERN)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/> Tailwind CSS&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36"/> Azure&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36"/> Firebase
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36"/> Vite
 
 ---
 
