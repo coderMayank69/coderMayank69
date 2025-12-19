@@ -53,6 +53,8 @@ Mayank Singh | Web Developer (MERN)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36"/> Azure&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36"/> Firebase
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36"/> Vite
+<img src="https://github.com/coderMayank69/nodemailer.png/blob/main/nm_logo_200x136.png" width="36"/> Nodemailer
+
 
 ---
 
