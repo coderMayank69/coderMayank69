@@ -58,6 +58,13 @@ Mayank Singh | Web Developer (MERN)
 
 ---
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=coderMayank69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+---
+
 ## 📂 Projects
 
 > Projects are focused on demonstrating **core concepts**, not just features.
@@ -89,11 +96,8 @@ Mayank Singh | Web Developer (MERN)
 
 ---
 
-## 📬 Contact
-
-- Email: mayankbca96325@gmail.com 
-- Linkedin: www.linkedin.com/in/mayanksingh96 
-- GitHub: You’re already here — explore the repositories below
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayanksingh96/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankbca96325@gmail.com) 
 
 ---
 
