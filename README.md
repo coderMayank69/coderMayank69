@@ -93,9 +93,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/> Bootstrap
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/> Tailwind CSS  
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="36"/> Cursor
+</p>
+
+---
+
+### Backend & API Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/> REST APIs
 <img src="https://jwt.io/img/pic_logo.svg" width="36"/> JWT Authentication
 <img src="https://nodemailer.com/nm_logo_200x136.png" width="36"/> Nodemailer
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/> REST APIs
+<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="36"/> Socket.IO
 </p>
 
 ---
