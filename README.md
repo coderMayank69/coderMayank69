@@ -22,7 +22,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/coderMayank69?theme=dark&font=Baloo&ext=heatmap)
 
-![](https://leetcode-rreadme-stats.vercel.app/api/top-langs/?username=coderMayank69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![LeetCode Streak](https://leetcode-streak-stats.vercel.app/?user=coderMayank69&theme=dark)
+
 ---
 
 ## 🛠️ Technical Skills
@@ -61,7 +62,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36"/> NGINX
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36"/> Jenkins
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/> GitHub Actions
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36"/> Azure
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="36"/> AWS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36"/> Vercel
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36"/> Firebase
 </p>
 
 ---
@@ -71,6 +74,8 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/> MongoDB
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/> MySQL
+<img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/img/chroma-logo.png" width="36"/> ChromaDB
+<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="36"/> Pinecone
 </p>
 
 ---
@@ -88,20 +93,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/> Bootstrap
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/> Tailwind CSS  
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="36"/> Cursor
+<img src="https://jwt.io/img/pic_logo.svg" width="36"/> JWT Authentication
+<img src="https://nodemailer.com/nm_logo_200x136.png" width="36"/> Nodemailer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/> REST APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/> JWT Authentication
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/> Nodemailer
 </p>
 
 ---
 
-### AI & Intelligent Systems (Learning)
+### AI & Intelligent Systems
 
-- Python for AI systems
-- LangChain
-- OpenAI API
-- Vector Databases
-- Agentic AI architectures
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/> Python
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="36"/> LangChain
+<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="36"/> OpenAI API
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36"/> HuggingFace
+<img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/img/chroma-logo.png" width="36"/> Vector Databases
+</p>
 
 ---
 
