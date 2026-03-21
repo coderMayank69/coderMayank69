@@ -22,8 +22,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/coderMayank69?theme=dark&font=Baloo&ext=heatmap)
 
-![LeetCode Streak](https://leetcode-streak-stats.vercel.app/?user=coderMayank69&theme=dark)
-
 ---
 
 ## 🛠️ Technical Skills
@@ -92,6 +90,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36"/> Firebase
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/> Bootstrap
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/> Tailwind CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="36"/> WordPress
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36"/> Photoshop
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36"/> Notion
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="36"/> Cursor
 </p>
 
