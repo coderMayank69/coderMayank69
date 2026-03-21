@@ -3,7 +3,7 @@
 📍 India  
 🎓 Bachelor of Computer Applications (BCA)  
 💼 Actively preparing for **Software Development Internships**
-
+ 
 ---
 
 ## 👋 About Me
