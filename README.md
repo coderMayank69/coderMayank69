@@ -8,13 +8,13 @@
 
 ## 👋 About Me
 
-- Second-year **BCA student** who enjoys building real applications, not just collecting certificates  
-- Spend most of my time turning ideas into working apps with the **MERN stack**
-- Improving **problem-solving with Data Structures & Algorithms** on LeetCode
-- Curious about **backend systems** and what really happens after you hit “submit”
-- Exploring **DevOps and Agentic AI systems**
-- Learn best by breaking things, fixing them, and then fixing them properly
-- Looking for **software development internships** where I can contribute early and grow fast
+- Second-year **BCA student** who enjoys building real applications, not just collecting certificates . 
+- Spend most of my time turning ideas into working apps with the **MERN stack**.
+- Improving **problem-solving with Data Structures & Algorithms** on LeetCode.
+- Curious about **backend systems** and what really happens after you hit “submit”.
+- Exploring **DevOps and Agentic AI systems**.
+- Learn best by breaking things, fixing them, and then fixing them properly.
+- Looking for **software development internships** where I can contribute early and grow fast.
 
 ---
 
