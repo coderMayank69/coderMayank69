@@ -24,7 +24,8 @@
 ## 🧠 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/coderMayank69?theme=dark&font=Baloo&ext=heatmap)
-![LeetCode Streak](https://leetcode-streak-stats.vercel.app/?user=coderMayank69&theme=dark)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?logo=leetcode&logoColor=black)](https://leetcode.com/coderMayank69/)
 
 ---
 
@@ -86,10 +87,10 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/> MongoDB
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/> MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/> PostgreSQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36"/> Redis
 <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/img/chroma-logo.png" width="36"/> ChromaDB
 <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="36"/> Pinecone
-<img src="https://cdn.worldvectorlogo.com/logos/cloudinary-1.svg" width="36"/> Cloudinary
-<img src="https://avatars.githubusercontent.com/u/33035481?s=200&v=4" width="36"/> ImageKit
 </p>
 
 ---
@@ -103,6 +104,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="36"/> Socket.IO
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36"/> GraphQL
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="36"/> FastAPI
+<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="36"/> Prisma
 </p>
 
 ---
@@ -115,6 +117,16 @@
 <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="36"/> OpenAI API
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36"/> HuggingFace
 <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/img/chroma-logo.png" width="36"/> Vector DBs
+</p>
+
+---
+
+### Media & Storage
+
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/cloudinary-1.svg" width="36"/> Cloudinary
+<img src="https://avatars.githubusercontent.com/u/33035481?s=200&v=4" width="36"/> ImageKit
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36"/> AWS S3
 </p>
 
 ---
@@ -134,6 +146,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="36"/> Notion
 <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36"/> Cursor
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36"/> Jest
+<img src="https://avatars.githubusercontent.com/u/171032753?s=200&v=4" width="36"/> Antigravity
 </p>
 
 ---
