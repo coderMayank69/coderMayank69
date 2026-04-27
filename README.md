@@ -25,8 +25,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/coderMayank69?theme=dark&font=Baloo&ext=heatmap)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?logo=leetcode&logoColor=black)](https://leetcode.com/coderMayank69/)
-
 ---
 
 ## 🛠️ Technical Skills
@@ -54,7 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/> Java
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/> Python
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/> C
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/> C  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/> TypeScript
 </p>
 
 ---
@@ -75,7 +74,7 @@
 ### Cloud
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="36"/> AWS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/> AWS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36"/> Vercel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36"/> Firebase
 </p>
