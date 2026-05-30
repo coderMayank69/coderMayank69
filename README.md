@@ -23,7 +23,7 @@
 
 ## 🧠 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/coderMayank69?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mayankcodes-dev?theme=dark&font=Baloo&ext=heatmap)
 
 ---
 
@@ -153,11 +153,11 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayanksingh96/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankcodes-dev/)  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=black)](https://leetcode.com/coderMayank69/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=black)](https://leetcode.com/mayankcodes-deev/)  
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankbca96325@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@mayankcodes.dev)
 
 ---
 
